@@ -5,7 +5,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="a-sub" value=".subscribe(&#10;        () =&gt; {&#10;          &#10;        }&#10;      )" toReformat="true" toShortenFQNames="true">
+  <template name="a-sub" value=".subscribe(&#10;        () =&gt; {&#10;          &#10;        }&#10;      )" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JS_STATEMENT" value="true" />
       <option name="TypeScript" value="true" />

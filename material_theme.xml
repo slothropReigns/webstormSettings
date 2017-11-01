@@ -7,7 +7,7 @@
     <option name="isBoldTabs" value="true" />
     <option name="accentColor" value="c6ff00" />
     <option name="tabsHeight" value="32" />
-    <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
+    <option name="defaultBackground" value="" />
     <option name="upperCaseTabs" value="true" />
   </component>
 </application>

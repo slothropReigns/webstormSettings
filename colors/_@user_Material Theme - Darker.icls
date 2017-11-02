@@ -4,7 +4,7 @@
     <property name="created">2017-10-03T11:59:29</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-10-12T13:56:27</property>
+    <property name="modified">2017-11-02T09:01:11</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
@@ -3019,9 +3019,10 @@
     </option>
     <option name="TS.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9a9a9a" />
+        <option name="FOREGROUND" value="f8f807" />
         <option name="BACKGROUND" value="33a" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="720004" />
       </value>
     </option>
     <option name="TYPEDEF">

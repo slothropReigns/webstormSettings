@@ -1,6 +1,5 @@
 <templateSet group="JavaScript">
   <template name="ref" value="///&lt;reference path=&quot;$PATH$&quot;/&gt;&#10;$END$" description="Inserts reference path comment" toReformat="true" toShortenFQNames="false">
     <variable name="PATH" expression="complete()" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
   </template>
 </templateSet>

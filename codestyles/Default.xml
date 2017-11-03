@@ -10,7 +10,6 @@
     <option name="ENABLED" value="false" />
   </editorconfig>
   <codeStyleSettings language="TypeScript">
-    <option name="BRACE_STYLE" value="2" />
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>

@@ -3,11 +3,15 @@
     <option name="selectedTheme" value="MONOKAI" />
     <option name="highlightColor" value="53cb20" />
     <option name="highlightColorEnabled" value="true" />
-    <option name="highlightThickness" value="5" />
     <option name="isBoldTabs" value="true" />
+    <option name="isCustomTreeIndentEnabled" value="true" />
+    <option name="customTreeIndent" value="2" />
     <option name="accentColor" value="c6ff00" />
-    <option name="tabsHeight" value="32" />
+    <option name="wallpaper" value="$USER_HOME$/Downloads/ocds/002.jpg" />
+    <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="28" />
+    <option name="isCompactStatusBar" value="true" />
     <option name="defaultBackground" value="https://raw.githubusercontent.com/mallowigi/material-theme-jetbrains-eap/master/src/main/resources/themes/wall.jpg,60" />
-    <option name="upperCaseTabs" value="true" />
+    <option name="customSidebarHeight" value="20" />
   </component>
 </application>

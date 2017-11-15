@@ -4,8 +4,9 @@
     <property name="created">2017-10-03T11:59:29</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-11-15T06:37:06</property>
+    <property name="modified">2017-11-15T08:51:22</property>
     <property name="originalScheme">Material Theme - Darker</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="17" />
@@ -1618,8 +1619,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="b43e9d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="cb27c9" />
+        <option name="EFFECT_COLOR" value="27cb42" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">

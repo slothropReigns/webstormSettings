@@ -12,7 +12,7 @@
     <option name="compactSidebar" value="true" />
     <option name="tabsHeight" value="28" />
     <option name="isCompactStatusBar" value="true" />
-    <option name="defaultBackground" value="" />
+    <option name="defaultBackground" value="$USER_HOME$/Downloads/ocds/002.jpg" />
     <option name="customSidebarHeight" value="20" />
   </component>
 </application>

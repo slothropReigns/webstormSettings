@@ -1,4 +1,7 @@
 <code_scheme name="Default">
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="VAR_DECLARATION_WRAP" value="0" />

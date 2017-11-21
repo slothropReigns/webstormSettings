@@ -7,11 +7,19 @@
           <option name="userName" value="slothropReigns" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/slothropReigns/woody" />
+          <option name="url" value="https://github.com/slothropReigns/woody.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/slothropReigns/woody.git" />
+          <option name="url" value="https://github.com/ag-grid/ag-grid-angular-example" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ag-grid/ag-grid-angular-seed" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/slothropReigns/recipe.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

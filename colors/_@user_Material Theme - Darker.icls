@@ -4,8 +4,9 @@
     <property name="created">2017-10-03T11:59:29</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-10-12T13:56:27</property>
+    <property name="modified">2017-11-15T09:18:13</property>
     <property name="originalScheme">Material Theme - Darker</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="CONSOLE_FONT_NAME" value="DejaVu Sans Mono" />
   <option name="CONSOLE_FONT_SIZE" value="17" />
@@ -52,7 +53,7 @@
     <option name="SELECTION_BACKGROUND" value="353535" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
-    <option name="TEARLINE_COLOR" value="303030" />
+    <option name="TEARLINE_COLOR" value="4d4d4d" />
     <option name="WHITESPACES" value="616161" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="d9f5dd" />
   </colors>
@@ -690,7 +691,8 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="4a4a4a" />
+        <option name="FOREGROUND" value="9a9a04" />
+        <option name="BACKGROUND" value="c0b53" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1618,7 +1620,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="cb27c9" />
+        <option name="EFFECT_COLOR" value="cb4c12" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -3017,11 +3019,20 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="TS.BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="fff14b" />
+        <option name="BACKGROUND" value="130f37" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="370406" />
+      </value>
+    </option>
     <option name="TS.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="9a9a9a" />
+        <option name="FOREGROUND" value="f8f807" />
         <option name="BACKGROUND" value="33a" />
         <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="720004" />
       </value>
     </option>
     <option name="TYPEDEF">

@@ -4,7 +4,7 @@
     <property name="created">2017-10-03T11:59:29</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-11-21T07:25:28</property>
+    <property name="modified">2017-11-21T09:28:02</property>
     <property name="originalScheme">Material Theme - Darker</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -12167,6 +12167,31 @@
     <option name="QL_STRING">
       <value>
         <option name="FOREGROUND" value="c3e88d" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="a0b0" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="247831" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="ce3a85" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="ec6841" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="edc951" />
       </value>
     </option>
     <option name="REGEXP.BRACES">

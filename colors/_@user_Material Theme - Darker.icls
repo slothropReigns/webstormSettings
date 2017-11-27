@@ -4,7 +4,7 @@
     <property name="created">2017-10-03T11:59:29</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-11-27T10:18:32</property>
+    <property name="modified">2017-11-27T11:25:14</property>
     <property name="originalScheme">Material Theme - Darker</property>
     <property name="rainbow Default language">true</property>
   </metaInfo>
@@ -656,14 +656,12 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
-    <option name="DEFAULT_IDENTIFIER">
-      <value>
-        <option name="FOREGROUND" value="eeffff" />
-      </value>
-    </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="ff5370" />
+        <option name="FOREGROUND" value="eeffff" />
+        <option name="BACKGROUND" value="212121" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -695,11 +693,6 @@
         <option name="FOREGROUND" value="9a9a04" />
         <option name="BACKGROUND" value="c0b53" />
         <option name="FONT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="DEFAULT_LOCAL_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="eeffff" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -1284,11 +1277,6 @@
     <option name="JFLEX_MACROS_REF">
       <value>
         <option name="FOREGROUND" value="1a1f29" />
-      </value>
-    </option>
-    <option name="JS.INSTANCE_MEMBER_VARIABLE">
-      <value>
-        <option name="FOREGROUND" value="f1fdff" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME">

@@ -12,5 +12,6 @@
     <entry key="ide.tooltip.initialDelay" value="393" />
     <entry key="editor.caret.width" value="3" />
     <entry key="focus.follows.mouse.workarounds" value="true" />
+    <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
   </component>
 </application>
